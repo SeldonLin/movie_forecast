@@ -1,0 +1,11 @@
+embedding_dim: 32
+hidden_dim: 64
+output_dim: 20
+comment_len: 100
+num_heads: 4
+num_layers: 1
+use_text: 1
+use_img: 1
+gpu_num: 0
+use_encoder_mask: 1
+autoregressive: 0
